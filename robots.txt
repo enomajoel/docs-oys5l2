@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-o4824g.date-me.pro/sitemap.xml
